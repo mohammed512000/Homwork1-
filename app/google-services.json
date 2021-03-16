@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215502482833",
+    "project_id": "fier-c97e1",
+    "storage_bucket": "fier-c97e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215502482833:android:ca503a924bb56a40d7fe30",
+        "android_client_info": {
+          "package_name": "com.example.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215502482833-ndlk0kfhdlq6u7qbi0jqe5tq4h3fcl98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project2",
+            "certificate_hash": "c77b0b6743369fb0c8a7553288c2adbc4f1c97fd"
+          }
+        },
+        {
+          "client_id": "215502482833-h2bh13n5gla359nqf6i47vev94h749t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1VslHRenrD_yirC1e8JrDgALGyQG1HLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215502482833-h2bh13n5gla359nqf6i47vev94h749t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
